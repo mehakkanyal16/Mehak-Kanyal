@@ -26,8 +26,8 @@ const projectsData = [
     name: "Portfolio Website",
     imageUrl: "image.png",
     desc: "Explore my portfolio, a testament to my design prowess and experience in the field. Crafted using, it showcases my journey as a dedicated web developer.",
-    liveLink: "#",
-    sourceCodeLink: "#",
+    liveLink: "https://mehak-kanyal.vercel.app/",
+    sourceCodeLink: "https://github.com/mehakkanyal16/Mehak-Kanyal",
   },
 ];
 
