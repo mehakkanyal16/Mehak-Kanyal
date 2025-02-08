@@ -8,8 +8,8 @@ const projectsData = [
     name: "SortSight Project",
     imageUrl: "SortSight.jpg",
     desc: "SortSight brings sorting algorithms to life with captivating visuals. Watch as data seamlessly moves through algorithms like Insertion Sort,Selection Sort ,Bubble Sort, Heap Sort, Merge Sort, and Quick Sort, offering a clear, real-time understanding of how each works. Interactive and visually striking, SortSight makes learning sorting algorithms a breeze!",
-    sourceCodeLink:
-      "",
+    liveLink: "https://sorting-visualizer-five-blond.vercel.app/",
+    sourceCodeLink: "https://github.com/mehakkanyal16/Sorting_Visualizer",
   },
   {
     
